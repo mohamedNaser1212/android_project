@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name" translatable="false">Car Renting</string>
+    <string name="login_title">login</string>
+    <string name="fullname">Full Name</string>
+    <string name="full_name_edittext">Enter your Full Name</string>
+    <string name="email_edittext" translatable="false">example@gmail.com</string>
+    <string name="email">Email</string>
+    <string name="password">Enter your password</string>
+    <string name="password_edittext_confirm">1234</string>
+    <string name="password_confirm">Confirm password</string>
+    <string name="submit">login</string>
+    <string name="welcome">welcome</string>
+    <string name="logout">Logout</string>
+    <string name="password_edittext">Enter your password</string>
+    <string name="toast">Field must not be empty</string>
+    <string name="kindly">Kindly you can follow us on</string>
+    <string name="car_renting_v_1_0" translatable="false">Car Renting V 1.0</string>
+    <string name="hazem">Hazem Hamdy 213045</string>
+    <string name="habashi">Mohammed Habashi 213126</string>
+    <string name="philo">Philopater Odelf 213113</string>
+    <string name="nasser">Mohammed Nasser 213138</string>
+    <string name="notification">Don\'t forget to follow us</string>
+    <string name="available">Available</string>
+    <string name="out">Out of Stock</string>
+    <string name="soon">Coming Soon</string>
+    <string name="merc">Mercedes</string>
+    <string name="kia">KIA</string>
+    <string name="verna">Verna</string>
+    <string name="logan">Logan</string>
+    <string name="pegu">Peugeot</string>
+    <string name="tesla">Tesla</string>
+
+</resources>

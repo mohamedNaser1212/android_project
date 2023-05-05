@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_title">تسجيل الدخول</string>
+    <string name="full_name_edittext">ادخل اسمك بالكامل</string>
+    <string name="email">الايميل</string>
+    <string name="password">كلمه السر</string>
+    <string name="password_edittext">ادخل كلمه السر</string>
+    <string name="password_confirm">اكد كلمه السر</string>
+    <string name="password_edittext_confirm">١٢٣٤</string>
+    <string name="submit">تسجيل الدخول</string>
+    <string name="fullname">الاسم بالكامل</string>
+    <string name="welcome">مرحبا</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="toast">يرجى ملئء هذا الفراغ</string>
+    <string name="kindly">"تقدر تتابعنا علي "</string>
+    <string name="hazem">"حازم حمدي 213045 "</string>
+    <string name="habashi">محمد حبشي 213126</string>
+    <string name="philo">فيلوباتير اودلف 213113</string>
+    <string name="nasser">محمد ناصر 213138</string>
+    <string name="notification">"لا تنسي الاشتراك "</string>
+    <string name="available">متوفر</string>
+    <string name="out">نفذت الكميه</string>
+    <string name="soon">قريبا</string>
+    <string name="merc">ميرسيدس</string>
+    <string name="kia">كيا</string>
+    <string name="verna">فيرنا</string>
+    <string name="logan">لوجان</string>
+    <string name="pegu">بيجو</string>
+    <string name="tesla">تيسلا</string>
+</resources>
